@@ -24,6 +24,10 @@ A fully functional front-end E-Commerce website built using **HTML, CSS, and Jav
 - **Vanilla JavaScript (ES6+)**
 - **Font Awesome** for icons
 - **localStorage & sessionStorage** for cart state
+  
+## 🔥 Live Demo
+
+>  https://sachin1942003.github.io/Ecommerce--JavaScript/
 
 ---
 
