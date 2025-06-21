@@ -1,0 +1,219 @@
+[
+  {
+    "category": "Suggested Products",
+    "items": [
+      { "name": "Sofa", "price": 59.99, "image": "./assets/sofa.jpg" },
+      { "name": "Monitor", "price": 89.99, "image": "./assets/monitor.jpg" },
+      { "name": "Mobile", "price": 99.99, "image": "./assets/mobile1.jpg" },
+      {
+        "name": "Jacket",
+        "price": 99.99,
+        "image": "./assets/clothing1.png"
+      },
+      { "name": "Watch", "price": 79.99, "image": "./assets/watch.jpg" }
+    ]
+  },
+  {
+    "category": "Electronics",
+    "items": [
+      { "name": "Mobile", "price": 99.99, "image": "./assets/mobile1.jpg" },
+      { "name": "Mouse", "price": 499.99, "image": "./assets/mouse.jpg" },
+      {
+        "name": "Headphones",
+        "price": 459.99,
+        "image": "./assets/headphones.jpg"
+      },
+      { "name": "Laptop", "price": 799.99, "image": "./assets/laptop.jpg" },
+      { "name": "Monitor", "price": 89.99, "image": "./assets/monitor.jpg" },
+      {
+        "name": "Wireless Earbuds",
+        "price": 459.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIIHz-T1y__KL-llVusIs0WFAWytDpix3JA&s"
+      },
+      { "name": "Drone", "price": 799.99, "image": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:504,cw:3025,ch:2269,q:80,w:3025/WG4PDRB6z6mqfpyGyueH8Q.jpg" },
+      { "name": "Gaming Console", "price": 89.99, "image": "https://m.media-amazon.com/images/I/41vF2GZHraL.jpg" },
+      { "name": "Power Bank", "price": 499.99, "image": "https://media.istockphoto.com/id/1126642401/photo/power-bank-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=FMMhXxZql2guHigJvPDsi6S5Bp_QT6OsfZnD6kqcc3U=" },
+      { "name": "Tablet", "price": 99.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPuA0n2zZnLbEZNSlsSoV9mJ9i4Oo_2nj_w&s" }
+    ]
+  },
+  {
+    "category": "Fashion",
+    "items": [
+      {
+        "name": "T-Shirt",
+        "price": 19.99,
+        "image":"https://merchshop.in/wp-content/uploads/2019/10/React-JS-Pocket-logo-t-shirt-black-1.jpg "
+      },
+      {
+        "name": "Jeans",
+        "price": 49.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sVHIry8mKGvctfSSDURN4Lm6h2nWzhrf3g&s"
+      },
+      {
+        "name": "Sneakers",
+        "price": 79.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTny3HG-wyJ5n0BwfY7J6TF8O-VyMrSMd5pFg&s"
+      },
+      {
+        "name": "Jacket",
+        "price": 99.99,
+        "image": "./assets/clothing1.png"
+      },
+      {
+        "name": "Sunglasses",
+        "price": 39.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKCG_qRs-EHO3ttnyPcz827vTwRF6zuEmfw&s"
+      },
+      {
+        "name": "Hat",
+        "price": 29.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VCWyDh75Ji8LYVcLr36I2bbcLuWMZ2iJCA&s"
+      },
+      {
+        "name": "Dress",
+        "price": 89.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrp-EweBBxnAy3aW2mmy9ehXiG-4DTNLkDEA&s"
+      },
+      {
+        "name": "Wristwatch",
+        "price": 129.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRL6hOwtBU4elGz_gD_tknLCOBovv_gP2rrA&s"
+      },
+      {
+        "name": "Handbag",
+        "price": 69.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0PP5oWPCJSpFaH4KJ6-I4I_yekXQSiUxUA&s"
+      },
+      {
+        "name": "Scarf",
+        "price": 19.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBufpfN3nQvxfcuFBC9IPuPsD6cyL12qYiw&s"
+      }
+    ]
+  },
+  {
+    "category": "Home Furniture",
+    "items": [
+      { "name": "Sofa", "price": 59.99, "image": "./assets/sofa.jpg" },
+      { "name": "Dining Set", "price": 89.99, "image": "./assets/dining.jpg" },
+      {
+        "name": "Chair",
+        "price": 89.99,
+        "image": "https://supremefurniture.co.in/cdn/shop/files/Ornate-Red-Black.jpg?v=1706170905"
+      },
+      {
+        "name": "Bed",
+        "price": 999.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV2Daj-SBNIQtUZaMgvkeHpwBI9c2Dpk8E1g&s"
+      },
+      {
+        "name": "Cupboard",
+        "price": 399.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtI5SUZRW7spmaGIIYBTuhMIgpoG7A1Jw-RA&s"
+      },
+      {
+        "name": "Lamp",
+        "price": 59.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn_aMxn7iqhJfxVsVKMdNbSYa6JrkgFkusg&s"
+      },
+      {
+        "name": "Bookshelf",
+        "price": 149.99,
+        "image": "https://images.woodenstreet.de/image/cache/data/book-shelves/fanny-bookshelf-revised/revised/honey/updated/new-logo/1-810x702.jpg"
+      },
+      {
+        "name": "Desk",
+        "price": 299.99,
+        "image": "https://m.media-amazon.com/images/I/81aD0otr-kL._UF894,1000_QL80_.jpg"
+      },
+      {
+        "name": "Wardrobe",
+        "price": 799.99,
+        "image": "https://www.hometown.in/cdn/shop/files/1_45b3ec11-1b62-443c-b831-31d2b8192fff.jpg?v=1747204777"
+      },
+      {
+        "name": "Coffee Table",
+        "price": 199.99,
+        "image": "https://mysleepyhead.com/media/catalog/product/s/l/sleepyhead_product_ls_309_new.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Sports",
+    "items": [
+      { "name": "Football", "price": 29.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRou2OiEkjargTJ3Wr6FT2INGd8h4DUmtr82w&s" },
+      { "name": "Basketball", "price": 24.99, "image": "https://cdn.pixabay.com/photo/2013/07/12/14/07/basketball-147794_1280.png" },
+      {
+        "name": "Tennis Racket",
+        "price": 79.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT6Swww6MwcLY7mgA63djIgaxBekenpvltyg&s"
+      },
+      {
+        "name": "Cricket Bat",
+        "price": 49.99,
+        "image": "https://m.media-amazon.com/images/I/515AUttBwlL.jpg"
+      },
+      {
+        "name": "Badminton Set",
+        "price": 39.99,
+        "image": "https://img.freepik.com/free-photo/badminton-concept-with-shuttlecock-racket_23-2149940854.jpg?semt=ais_hybrid&w=740"
+      },
+      {
+        "name": "Yoga Mat",
+        "price": 19.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlH3BrGhdPrswPLOUH74eem0g0FqMkvqy8g&s"
+      },
+      {
+        "name": "Dumbbells",
+        "price": 59.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Cw5-ur3R5ce2_etW5gJTEkD-ROOBOtUcvw&s"
+      },
+      {
+        "name": "Treadmill",
+        "price": 899.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrYttjkJoMJhGOX1_eO839yqv32mypfUkIw&s"
+      },
+      {
+        "name": "Cycling Helmet",
+        "price": 39.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2FcdK2W2k4QFQpnizXlgXeMc8tpqm9q5zw&s"
+      },
+      {
+        "name": "Skipping Rope",
+        "price": 14.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtWxGt9eeQwQex3s35Jo5X7Lg9ohXVkC1uQ&s"
+      }
+    ]
+  },
+  {
+    "category": "Personal Care",
+    "items": [
+      { "name": "Face Moisturizer", "price": 15.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlF75jve8KTSUwnvLfhsptnAB_RtEylMAyrQ&s" },
+      { "name": "Shampoo", "price": 12.49, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREpkZ06XaGLqUqcruxW76wPJZ2gLMQxI2SbQ&s" },
+      { "name": "Lipstick", "price": 9.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsm33LLmQJmdglEQbKvej-Pgcx-rrLSIHoA&s" },
+      { "name": "Perfume", "price": 29.99, "image": "https://bellavitaorganic.com/cdn/shop/files/Fresh_100_ml.jpg?v=1728034537&width=1000" },
+      { "name": "Hair Dryer", "price": 39.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7YdJZkr6u8fTVTBfAy3btd6XtB64NR2ovw&s" },
+      { "name": "Makeup Brush Set", "price": 19.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRScuVUBzI7lom4z3gG-cxOpMxkBu32VaxA&s" },
+      { "name": "Face Mask", "price": 5.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvL_q7nUPHIBRzqkY1RNCU8Dyl76AJezLlg&s" },
+      { "name": "Body Lotion", "price": 14.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbrCzYEuI1eN7vZQZgfDHDs676MOcj4ex8g&s" },
+      { "name": "Sunscreen", "price": 18.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3D0g3Uefs8eCxh_qzj22_u3DfaEaEIj-aQ&s" },
+      { "name": "Electric Shaver", "price": 49.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kTfVnos5E623XFuTIeVsF6Pij4OipIlJ8Q&s" }
+    ]
+  },
+  {
+    "category": "Kitchen Appliances",
+    "items": [
+      { "name": "Microwave", "price": 149.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPJ1PPTKcpwzcIJma-gaVhpu491iFiTCo-Q&s" },
+      { "name": "Blender", "price": 59.99, "image": "https://www.bajajelectricals.com/cdn/shop/files/410542-1.jpg?v=1726728690&width=1920" },
+      { "name": "Coffee Maker", "price": 79.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWMS6XCIDbMqBjLBDj8qXeK6_gGPKyRIHQQ&s" },
+      { "name": "Toaster", "price": 34.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkHgwlg9lt0GYPN6pZ2b7ZOHFoYJbRWGnwA&s" },
+      { "name": "Electric Kettle", "price": 29.99, "image": "https://www.jiomart.com/images/product/original/491373220/prestige-1-5-litres-1500-watts-electric-kettle-pkoss-digital-o491373220-p491373220-0-202010110045.jpeg?im=Resize=(1000,1000)" },
+      { "name": "Rice Cooker", "price": 89.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXjeZu6wXswN-3lO-VgmZdN34iar7GBGleA&s" },
+      { "name": "Air Fryer", "price": 129.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6eN5lw7F6aWx1UBfXAyPzOuTqRseg0d-cgA&s" },
+      { "name": "Dishwasher", "price": 499.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7GwYQ2J2050Ufgeg78NYOX1k0RaAKTtqBg&s" },
+      { "name": "Hand Mixer", "price": 39.99, "image": "https://www.rasoishop.com/cdn/shop/files/8901309226370.jpg?v=1701853263&width=533" },
+      { "name": "Food Processor", "price": 149.99, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbcumGH4zO2YSR6ywvI9vxKO2kwVnrn3CZA&s" }
+    ]
+  }
+  
+]
